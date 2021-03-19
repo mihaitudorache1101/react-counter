@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #42d469;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.5rem;
+}
+
+.navbar-brand {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}

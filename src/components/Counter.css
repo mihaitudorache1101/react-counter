@@ -1,0 +1,22 @@
+.counter {
+  margin-top: 60px;
+}
+
+.count {
+  padding: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.8rem;
+}
+
+.btn-1 {
+  font-size: 1.5rem;
+  width: 35px;
+  height: 35px;
+  margin-bottom: 20px;
+}
+
+.btn-2 {
+  width: 130px;
+  margin-bottom: 10px;
+  height: 35px;
+}
